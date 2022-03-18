@@ -93,4 +93,4 @@ function tribonacci(signature, n){
 
 А2 (Pre-Intermediate)
 
-![stars](http://dl4.joxi.net/drive/2022/03/17/0000/1892/14180/80/d7c7139ed3.jpg)
+![stars](http://dl4.joxi.net/drive/2022/03/17/0000/1892/14180/80/afeba12fea.jpg)

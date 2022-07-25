@@ -38,6 +38,7 @@ As I study JavaScript, I do small projects. I post some of them on my [github ac
   * IT Proger (https://itproger.com/)
   * Nova JS (https://novajs.space)
   * Udemy (https://www.udemy.com)
+  * RS School (stage#0, stage#1) (https://rs.school/)
 
 ## English language
 

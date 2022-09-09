@@ -14,24 +14,26 @@
 ---
 
 ## About me
+I am currently the head of IT projects. I am responsible for the development of various e-commerce products. Before that, I was engaged in SEO optimization of websites for a long time. I have always been interested in development and in addition to my main work, I have performed various tasks to finalize websites.
 
-I am currently the head of IT projects. I am responsible for the development of various e-commerce products. Before that, I was engaged in SEO optimization of websites for a long time. I was also engaged in the administration and refinement of sites (sites without CMS, self-written and boxed CMS).
+I have always been attracted to development as a programmer. For the sake of interest, I studied various programming languages. Recently, I have been closely studying FrontEnd development. I have taken various courses, read books, watch videos and put my knowledge into practice.
 
-All the time I was attracted to development as a programmer. For the sake of interest, I studied various programming languages. I chose JavaScript, because that's where there is user interaction and a tangible return on your work.
+Thanks to my great interest in development, I study with pleasure. I feel that there are not enough real tasks right now, there is not enough work in a real team for further development and becoming a full-fledged Frontend developer.
 
-Thanks to my great interest in development, I study with pleasure. And made the final decision to become a JavaScript developer.
-
-As I study JavaScript, I do small projects. I post some of them on my [github account](https://github.com/edosjoy).
+While studying JavaScript, I am engaged in small projects. I post some of them in my account on https://github.com/edosjoy.
 
 ## Skils
-* HTML, CSS
-* JavaScript (basic)
-* React (basic)
-* Git (githab, gitlab)
-* WebStorm, VS Code
+- HTML5, CSS3 (preprocessors)
+- JavaScript
+- React (basic)
+- TypeScript (basic)
+- Git (githab, gitlab)
+- Docker
+- Webpack, Gulp
+- WebStorm, VS Code
+
 
 ## Education
-
 * Higher education, Faculty of Computer Science and Computer Engineering
 * Frontend development courses
   * HTML Academy (https://htmlacademy.ru/)
@@ -39,9 +41,3 @@ As I study JavaScript, I do small projects. I post some of them on my [github ac
   * Nova JS (https://novajs.space)
   * Udemy (https://www.udemy.com)
   * RS School (stage#0, stage#1) (https://rs.school/)
-
-## English language
-
-А2 (Pre-Intermediate)
-
-![stars](http://dl4.joxi.net/drive/2022/03/17/0000/1892/14180/80/afeba12fea.jpg)
